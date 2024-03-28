@@ -2,7 +2,7 @@
 
 This repository hosts a collection of small Natural Language Processing (NLP) projects, each designed to address specific tasks or challenges.
 
-**Code Implementation:** The codes are written in Jupyter notebook for easy understanding and execution.
+**Code Implementation:** The codes are written in Jupyter notebook.
 
 Each project's README.md file contains the following details:
 
