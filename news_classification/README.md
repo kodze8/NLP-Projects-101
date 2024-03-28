@@ -12,7 +12,7 @@ and Logistic Regression to identify the best-performing model.
 - seaborn
 
 ## Dataset
-The source data for this project is obtained from [Kaggle]:
+The source data for this project is obtained from Kaggle:
 (https://www.kaggle.com/datasets/timilsinabimal/newsarticlecategories/data).
 
 ## Usage
