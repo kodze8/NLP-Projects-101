@@ -1,4 +1,4 @@
-# NLP_projects
+# NLP Projects 101
 
 This repository hosts a collection of small Natural Language Processing (NLP) projects, each designed to address specific tasks or challenges.
 
