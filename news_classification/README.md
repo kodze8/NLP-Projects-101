@@ -13,7 +13,7 @@ and Logistic Regression to identify the best-performing model.
 
 ## Dataset
 The source data for this project is obtained from Kaggle:
-(https://www.kaggle.com/datasets/timilsinabimal/newsarticlecategories/data).
+https://www.kaggle.com/datasets/timilsinabimal/newsarticlecategories/data
 
 ## Usage
 1. Run the Python script `news_article_classification.py`.
